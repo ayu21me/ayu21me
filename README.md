@@ -32,10 +32,6 @@ Final-year Computer Science student specializing in Data Analytics & Engineering
 - **Outcome:** Identified key areas for cost-saving and automated the generation of procurement reports.
 - **Stack:** Python, Pandas, Matplotlib, Seaborn.
 
-### 📈 GitHub Activity
-![Ayush's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ayu21me&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayu21me&layout=compact&theme=radical)
-
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-99464a2b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusg324official@gmail.com)

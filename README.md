@@ -1,4 +1,4 @@
-## Hi there👋, I'm Ayush Yadav
+## Hello there👋, I'm Ayush Yadav
 Final-year Computer Science student specializing in Data Analytics & Engineering.
 
 - 🔭 I’m currently working on **Digital Procurement Analytics** to optimize supply chain costs.
@@ -21,7 +21,7 @@ Final-year Computer Science student specializing in Data Analytics & Engineering
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-🚀 Featured Projects
+###🚀 Featured Projects
 
 #### 📈 [Digital Procurement Analytics](https://github.com/ayu21me/digital-procurement-analytics)
 *An end-to-end data project focused on optimizing corporate supply chain efficiency.*
@@ -31,7 +31,7 @@ Final-year Computer Science student specializing in Data Analytics & Engineering
 - **Stack:** Python, Pandas, Matplotlib, Seaborn.
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-yadav-99464a2b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-99464a2b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayusg324official@gmail.com)
 
 

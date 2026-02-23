@@ -4,7 +4,7 @@ Final-year Computer Science student specializing in Data Analytics & Engineering
 - 🔭 I’m currently working on **Digital Procurement Analytics** to optimize supply chain costs.
 - 📊 I am passionate about turning "messy" data into actionable business insights.
 - 🌱 I’m currently sharpening my skills in **Data Structures and Algorithms (C++)**.
-- ⚡ Fun fact: I'm a fitness enthusiast who enjoys powerlifting and hitting new PRs.
+- ⚡ Fun fact: I'm a fitness enthusiast who believes in getting 1% better everyday.
 
 ### 🛠 Technical Toolbox
 

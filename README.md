@@ -34,7 +34,7 @@ Final-year Computer Science student specializing in Data Analytics & Engineering
 
 ---
 
-#### 🧮 [Customer Segmentation using RFM Analysis](https://github.com/ayu21me/rfm-customer-segmentation)
+#### 🧩 [Customer Segmentation using RFM Analysis](https://github.com/ayu21me/rfm-customer-segmentation)
 *A customer analytics project focused on identifying high-value users and churn risks.*
 
 - **Problem:** Businesses struggle to identify their most valuable customers and detect churn risk.
